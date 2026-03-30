@@ -1,0 +1,11 @@
+{
+  "name": "assignment-runner",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix lab-vite run dev",
+    "build": "npm --prefix lab-vite run build",
+    "preview": "npm --prefix lab-vite run preview",
+    "install:app": "npm --prefix lab-vite install"
+  }
+}
